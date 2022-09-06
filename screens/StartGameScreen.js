@@ -32,7 +32,7 @@ function StartGameScreen(onPickNumber) {
 
     return (
         <View style={styles.rootContainer}>
-            <Title>Guess my Number</Title>
+            <Title>Guess Number</Title>
             <Card>
             <InstructionText>Enter a Number</InstructionText>
             <TextInput 
